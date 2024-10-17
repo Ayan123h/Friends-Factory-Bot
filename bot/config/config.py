@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     API_HASH: str
 
 
-    REF_LINK: str = "https://t.me/fabrika/app?startapp=ref_1970554"
+    REF_LINK: str = ""
     SQUAD_ID: int = 646
 
     AUTO_TASK: bool = True
